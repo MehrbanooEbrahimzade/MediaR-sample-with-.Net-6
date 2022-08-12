@@ -1,0 +1,30 @@
+D:\Projects\Git Clone\OnionArchitecture\Application1\bin\Debug\net6.0\Application.deps.json
+D:\Projects\Git Clone\OnionArchitecture\Application1\bin\Debug\net6.0\Application.dll
+D:\Projects\Git Clone\OnionArchitecture\Application1\bin\Debug\net6.0\Application.pdb
+D:\Projects\Git Clone\OnionArchitecture\Application1\bin\Debug\net6.0\Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Application1\bin\Debug\net6.0\Domain.pdb
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.dll
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\refint\Application.dll
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\Application.pdb
+D:\Projects\Git Clone\OnionArchitecture\Application1\obj\Debug\net6.0\ref\Application.dll
+D:\Projects\project base\mediatR sample with .net6\Application\bin\Debug\net6.0\Application.deps.json
+D:\Projects\project base\mediatR sample with .net6\Application\bin\Debug\net6.0\Application.dll
+D:\Projects\project base\mediatR sample with .net6\Application\bin\Debug\net6.0\Application.pdb
+D:\Projects\project base\mediatR sample with .net6\Application\bin\Debug\net6.0\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Application\bin\Debug\net6.0\Domain.pdb
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.dll
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\Application.pdb
+D:\Projects\project base\mediatR sample with .net6\Application\obj\Debug\net6.0\ref\Application.dll

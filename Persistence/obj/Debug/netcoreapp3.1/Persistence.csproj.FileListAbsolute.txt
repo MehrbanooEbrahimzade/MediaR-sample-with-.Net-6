@@ -1,0 +1,15 @@
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\1-Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\2-Application.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\2-Application.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\netcoreapp3.1\1-Domain.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb

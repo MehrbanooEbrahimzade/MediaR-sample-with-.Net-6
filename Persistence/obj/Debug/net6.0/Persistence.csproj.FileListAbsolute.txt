@@ -1,0 +1,34 @@
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Application.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Application.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Projects\Git Clone\OnionArchitecture\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Application.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Application.pdb
+D:\Projects\project base\mediatR sample with .net6\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Projects\project base\mediatR sample with .net6\Persistence\obj\Debug\net6.0\ref\Persistence.dll

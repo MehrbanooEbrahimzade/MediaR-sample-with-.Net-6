@@ -1,0 +1,24 @@
+D:\Projects\Git Clone\OnionArchitecture\Domain1\bin\Debug\net6.0\Domain.deps.json
+D:\Projects\Git Clone\OnionArchitecture\Domain1\bin\Debug\net6.0\Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Domain1\bin\Debug\net6.0\Domain.pdb
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\refint\Domain.dll
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\Domain.pdb
+D:\Projects\Git Clone\OnionArchitecture\Domain1\obj\Debug\net6.0\ref\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Projects\project base\mediatR sample with .net6\Domain\bin\Debug\net6.0\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Projects\project base\mediatR sample with .net6\Domain\obj\Debug\net6.0\ref\Domain.dll
